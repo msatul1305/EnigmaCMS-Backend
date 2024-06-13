@@ -1,0 +1,1 @@
+export { default as classicRouter } from './routes.js'
